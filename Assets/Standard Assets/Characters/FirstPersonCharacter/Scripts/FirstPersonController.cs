@@ -256,7 +256,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void RotateView()
         {
-            //m_MouseLook.LookRotation (transform, m_Camera.transform);
+            #if !MOBILE_INPUT
+            m_MouseLook.LookRotation (transform, m_Camera.transform);
+            #else
             Vector2 mouseInput = new Vector2(CrossPlatformInputManager.GetAxisRaw("HorizontalCamera"),
                                             CrossPlatformInputManager.GetAxisRaw("VerticalCamera"));
 
@@ -274,6 +276,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             transform.localEulerAngles += new Vector3(0, mouseInput.x * m_LookSpeed, 0);
 
             m_YRotation = mouseInput.y;
+            #endif
         }
 
 

@@ -129,10 +129,6 @@ Material:
         second: 0
       data:
         first:
-          name: _Occlusion
-        second: 7.5
-      data:
-        first:
           name: _SquashAmount
         second: 1
       data:
@@ -143,6 +139,10 @@ Material:
         first:
           name: _AO
         second: 2.4
+      data:
+        first:
+          name: _Occlusion
+        second: 7.5
     m_Colors:
       data:
         first:
@@ -151,7 +151,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: 0.019607844, g: 0.52156866, b: 0.003921569, a: 1}
+        second: {r: 0.0117, g: 0.1746, b: 0.0162, a: 1}
       data:
         first:
           name: _TreeInstanceColor

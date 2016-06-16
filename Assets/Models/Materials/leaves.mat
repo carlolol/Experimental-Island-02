@@ -108,6 +108,13 @@ Material:
           m_Offset: {x: 0, y: 0}
       data:
         first:
+          name: _ColorControl
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
           name: _ParallaxMap
         second:
           m_Texture: {fileID: 0}
@@ -144,13 +151,6 @@ Material:
       data:
         first:
           name: _MetallicGlossMap
-        second:
-          m_Texture: {fileID: 0}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
-          name: _ColorControl
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
@@ -266,6 +266,10 @@ Material:
         second: 0
       data:
         first:
+          name: _WaveScale
+        second: 0.07
+      data:
+        first:
           name: _Parallax
         second: 0.02
       data:
@@ -300,10 +304,6 @@ Material:
         first:
           name: _Metallic
         second: 0
-      data:
-        first:
-          name: _WaveScale
-        second: 0.07
       data:
         first:
           name: _SquashAmount
@@ -372,7 +372,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: 0.0117, g: 0.1746, b: 0.0162, a: 1}
+        second: {r: 0.01703071, g: 0.25735295, b: 0.02366946, a: 1}
       data:
         first:
           name: _SpecColor

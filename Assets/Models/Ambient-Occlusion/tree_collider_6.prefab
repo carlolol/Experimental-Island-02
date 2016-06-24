@@ -11,7 +11,8 @@ GameObject:
   - 33: {fileID: 3388986}
   - 23: {fileID: 2300764}
   - 95: {fileID: 9516908}
-  - 64: {fileID: 6437820}
+  - 136: {fileID: 13662586}
+  - 65: {fileID: 6535130}
   m_Layer: 0
   m_Name: tree_collider_6
   m_TagString: Untagged
@@ -26,8 +27,9 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 771.8584, y: 41.3, z: 975.75574}
+  m_LocalPosition: {x: 2084.9028, y: 43.45498, z: 1287.446}
   m_LocalScale: {x: 0.57683796, y: 0.576838, z: 0.3480188}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -65,18 +67,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152166}
   m_Mesh: {fileID: 4300000, guid: 83b269d6463f8cf4ea811c0f8c7c4f6e, type: 3}
---- !u!64 &6437820
-MeshCollider:
+--- !u!65 &6535130
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152166}
-  m_Material: {fileID: 13400000, guid: 3aeb7dadc0c69d54d9e5777e9d5631f1, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Convex: 0
-  m_Mesh: {fileID: 4300000, guid: 83b269d6463f8cf4ea811c0f8c7c4f6e, type: 3}
+  m_Size: {x: 6.6549006, y: 5.116563, z: 9.272071}
+  m_Center: {x: -0.9425544, y: 9.392266, z: 0.3451457}
 --- !u!95 &9516908
 Animator:
   serializedVersion: 3
@@ -94,6 +96,19 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!136 &13662586
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152166}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.5997168
+  m_Height: 11.970353
+  m_Direction: 1
+  m_Center: {x: 0, y: 5.9637628, z: 0.34506655}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 291ff2f76acd6914ea88066ce3e90c2c
+timeCreated: 1466840353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BodyCtrl
+    100002: Bone_001
+    100004: Bone_001_L
+    100006: Bone_001_L_001
+    100008: Bone_001_L_004
+    100010: Bone_001_R
+    100012: Bone_001_R_001
+    100014: Bone_001_R_004
+    100016: Bone_002
+    100018: Bone_003
+    100020: Bone_004
+    100022: Bone_005
+    100024: Bone_006
+    100026: Bone_L
+    100028: Bone_L_001
+    100030: Bone_L_004
+    100032: Bone_R
+    100034: Bone_R_001
+    100036: Bone_R_004
+    100038: COW
+    100040: Cow
+    100042: //RootNode
+    100044: IK_legF_L
+    100046: IK_legF_R
+    100048: IK_legH_L
+    100050: IK_legH_R
+    100052: LegCtrlF_L
+    100054: LegCtrlF_R
+    100056: LegCtrlH_L
+    100058: LegCtrlH_R
+    100060: LowerF_L
+    100062: LowerF_R
+    100064: LowerH_L
+    100066: LowerH_R
+    100068: Root
+    400000: BodyCtrl
+    400002: Bone_001
+    400004: Bone_001_L
+    400006: Bone_001_L_001
+    400008: Bone_001_L_004
+    400010: Bone_001_R
+    400012: Bone_001_R_001
+    400014: Bone_001_R_004
+    400016: Bone_002
+    400018: Bone_003
+    400020: Bone_004
+    400022: Bone_005
+    400024: Bone_006
+    400026: Bone_L
+    400028: Bone_L_001
+    400030: Bone_L_004
+    400032: Bone_R
+    400034: Bone_R_001
+    400036: Bone_R_004
+    400038: COW
+    400040: Cow
+    400042: //RootNode
+    400044: IK_legF_L
+    400046: IK_legF_R
+    400048: IK_legH_L
+    400050: IK_legH_R
+    400052: LegCtrlF_L
+    400054: LegCtrlF_R
+    400056: LegCtrlH_L
+    400058: LegCtrlH_R
+    400060: LowerF_L
+    400062: LowerF_R
+    400064: LowerH_L
+    400066: LowerH_R
+    400068: Root
+    4300000: COW
+    7400000: Walk
+    7400002: CowAction
+    9500000: //RootNode
+    13700000: COW
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: COW
+        weight: 1
+      - path: Cow
+        weight: 1
+      - path: Cow/Root
+        weight: 1
+      - path: Cow/Root/BodyCtrl
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_L
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_L/Bone_001_L_001/IK_legH_L
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_R
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_001_R/Bone_001_R_001/IK_legH_R
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_005
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_005/Bone_006
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_L
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_L/Bone_L_001
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_L/Bone_L_001/IK_legF_L
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_R
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_R/Bone_R_001
+        weight: 1
+      - path: Cow/Root/BodyCtrl/Bone_001/Bone_R/Bone_R_001/IK_legF_R
+        weight: 1
+      - path: Cow/Root/LegCtrlF_L
+        weight: 1
+      - path: Cow/Root/LegCtrlF_L/LowerF_L
+        weight: 1
+      - path: Cow/Root/LegCtrlF_L/LowerF_L/Bone_L_004
+        weight: 1
+      - path: Cow/Root/LegCtrlF_R
+        weight: 1
+      - path: Cow/Root/LegCtrlF_R/LowerF_R
+        weight: 1
+      - path: Cow/Root/LegCtrlF_R/LowerF_R/Bone_R_004
+        weight: 1
+      - path: Cow/Root/LegCtrlH_L
+        weight: 1
+      - path: Cow/Root/LegCtrlH_L/LowerH_L
+        weight: 1
+      - path: Cow/Root/LegCtrlH_L/LowerH_L/Bone_001_L_004
+        weight: 1
+      - path: Cow/Root/LegCtrlH_R
+        weight: 1
+      - path: Cow/Root/LegCtrlH_R/LowerH_R
+        weight: 1
+      - path: Cow/Root/LegCtrlH_R/LowerH_R/Bone_001_R_004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

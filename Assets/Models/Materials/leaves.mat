@@ -7,10 +7,10 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: leaves
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 10511, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 2901
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
@@ -302,6 +302,10 @@ Material:
         second: 0
       data:
         first:
+          name: _WaveScale
+        second: 0.07
+      data:
+        first:
           name: _SquashAmount
         second: 1
       data:
@@ -314,16 +318,12 @@ Material:
         second: 2.4
       data:
         first:
-          name: _Occlusion
-        second: 7.5
-      data:
-        first:
-          name: _WaveScale
-        second: 0.07
-      data:
-        first:
           name: _Emission
         second: 1
+      data:
+        first:
+          name: _Occlusion
+        second: 7.5
       data:
         first:
           name: _Cull
@@ -379,6 +379,14 @@ Material:
         second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
       data:
         first:
+          name: WaveSpeed
+        second: {r: 19, g: 9, b: -16, a: -7}
+      data:
+        first:
+          name: _horizonColor
+        second: {r: 0.172, g: 0.463, b: 0.435, a: 0}
+      data:
+        first:
           name: _TreeInstanceColor
         second: {r: 1, g: 1, b: 1, a: 1}
       data:
@@ -389,14 +397,6 @@ Material:
         first:
           name: _Emission
         second: {r: 0, g: 0, b: 0, a: 0}
-      data:
-        first:
-          name: WaveSpeed
-        second: {r: 19, g: 9, b: -16, a: -7}
-      data:
-        first:
-          name: _horizonColor
-        second: {r: 0.172, g: 0.463, b: 0.435, a: 0}
       data:
         first:
           name: _ReflectColor

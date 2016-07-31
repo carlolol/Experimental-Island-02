@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 798457bec436d8e4b88c77dc2896082c
+timeCreated: 1468652559
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder_022
+    100004: Cylinder_041
+    100006: Cylinder_056
+    100008: Cylinder_057
+    100010: Icosphere_015
+    100012: Icosphere_019
+    100014: Icosphere_022
+    100016: Icosphere_026
+    100018: Icosphere_032
+    100020: Icosphere_036
+    100022: Icosphere_037
+    100024: Icosphere_038
+    100026: Icosphere_039
+    100028: Icosphere_040
+    100030: Icosphere_041
+    100032: Icosphere_042
+    100034: Icosphere_043
+    100036: Icosphere_044
+    100038: Mball_000
+    100040: Mball_049
+    400000: //RootNode
+    400002: Cylinder_022
+    400004: Cylinder_041
+    400006: Cylinder_056
+    400008: Cylinder_057
+    400010: Icosphere_015
+    400012: Icosphere_019
+    400014: Icosphere_022
+    400016: Icosphere_026
+    400018: Icosphere_032
+    400020: Icosphere_036
+    400022: Icosphere_037
+    400024: Icosphere_038
+    400026: Icosphere_039
+    400028: Icosphere_040
+    400030: Icosphere_041
+    400032: Icosphere_042
+    400034: Icosphere_043
+    400036: Icosphere_044
+    400038: Mball_000
+    400040: Mball_049
+    2300000: Cylinder_022
+    2300002: Cylinder_041
+    2300004: Cylinder_056
+    2300006: Cylinder_057
+    2300008: Icosphere_015
+    2300010: Icosphere_019
+    2300012: Icosphere_022
+    2300014: Icosphere_026
+    2300016: Icosphere_032
+    2300018: Icosphere_036
+    2300020: Icosphere_037
+    2300022: Icosphere_038
+    2300024: Icosphere_039
+    2300026: Icosphere_040
+    2300028: Icosphere_041
+    2300030: Icosphere_042
+    2300032: Icosphere_043
+    2300034: Icosphere_044
+    2300036: Mball_000
+    2300038: Mball_049
+    3300000: Cylinder_022
+    3300002: Cylinder_041
+    3300004: Cylinder_056
+    3300006: Cylinder_057
+    3300008: Icosphere_015
+    3300010: Icosphere_019
+    3300012: Icosphere_022
+    3300014: Icosphere_026
+    3300016: Icosphere_032
+    3300018: Icosphere_036
+    3300020: Icosphere_037
+    3300022: Icosphere_038
+    3300024: Icosphere_039
+    3300026: Icosphere_040
+    3300028: Icosphere_041
+    3300030: Icosphere_042
+    3300032: Icosphere_043
+    3300034: Icosphere_044
+    3300036: Mball_000
+    3300038: Mball_049
+    4300000: Icosphere_019
+    4300002: Icosphere_044
+    4300004: Icosphere_043
+    4300006: Icosphere_042
+    4300008: Icosphere_041
+    4300010: Icosphere_040
+    4300012: Icosphere_039
+    4300014: Icosphere_038
+    4300016: Icosphere_032
+    4300018: Icosphere_022
+    4300020: Icosphere_036
+    4300022: Mball_000
+    4300024: Icosphere_026
+    4300026: Icosphere_015
+    4300028: Cylinder_057
+    4300030: Cylinder_056
+    4300032: Cylinder_041
+    4300034: Cylinder_022
+    4300036: Mball_049
+    4300038: Icosphere_037
+    6400000: Cylinder_022
+    6400002: Cylinder_041
+    6400004: Cylinder_056
+    6400006: Cylinder_057
+    6400008: Icosphere_015
+    6400010: Icosphere_019
+    6400012: Icosphere_022
+    6400014: Icosphere_026
+    6400016: Icosphere_032
+    6400018: Icosphere_036
+    6400020: Icosphere_037
+    6400022: Icosphere_038
+    6400024: Icosphere_039
+    6400026: Icosphere_040
+    6400028: Icosphere_041
+    6400030: Icosphere_042
+    6400032: Icosphere_043
+    6400034: Icosphere_044
+    6400036: Mball_000
+    6400038: Mball_049
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

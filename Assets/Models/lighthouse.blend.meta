@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 07ea738feaa346740866a3453b7ee7bd
-timeCreated: 1464775115
+guid: feac95a7b6baea442b81d98dc0079501
+timeCreated: 1470044708
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -10,7 +10,6 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cylinder
-    6400000: //RootNode
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -39,7 +38,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

@@ -17,6 +17,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         [SerializeField] private float m_JumpSpeed;
         [SerializeField] private float m_StickToGroundForce;
         [SerializeField] private float m_GravityMultiplier;
+        [SerializeField] private float m_LookSpeed;
         [SerializeField] private MouseLook m_MouseLook;
         [SerializeField] private bool m_UseFovKick;
         [SerializeField] private FOVKick m_FovKick = new FOVKick();
@@ -204,8 +205,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void GetInput(out float speed)
         {
             // Read input
-            float horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
-            float vertical = CrossPlatformInputManager.GetAxis("Vertical");
+            float horizontal = CrossPlatformInputManager.GetAxisRaw("Horizontal");
+            float vertical = CrossPlatformInputManager.GetAxisRaw("Vertical");
 
             bool waswalking = m_IsWalking;
 
@@ -236,7 +237,28 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void RotateView()
         {
+            #if !MOBILE_INPUT
             m_MouseLook.LookRotation (transform, m_Camera.transform);
+
+#else
+            Vector2 mouseInput = new Vector2(CrossPlatformInputManager.GetAxisRaw("HorizontalLook"), CrossPlatformInputManager.GetAxisRaw("VerticalLook"));
+            
+            float camX = m_Camera.transform.localEulerAngles.x;
+            
+            if ((camX > 280 && camX <= 360) ||
+                (camX >= 0 && camX < 80) ||
+                (camX >= 80 && camX < 180 && mouseInput.y > 0) ||
+                (camX > 180 && camX <= 280 && mouseInput.y < 0))
+            {
+                m_Camera.transform.localEulerAngles += new Vector3(-mouseInput.y * m_LookSpeed * .7f, m_Camera.transform.localEulerAngles.y, m_Camera.transform.localEulerAngles.z);
+            }
+            
+            transform.localEulerAngles += new Vector3(0, mouseInput.x * m_LookSpeed, 0);
+            Debug.Log(m_Camera.transform.localEulerAngles);
+
+            m_YRotation = mouseInput.y;
+#endif
+
         }
 
 

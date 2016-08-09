@@ -254,7 +254,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
             
             transform.localEulerAngles += new Vector3(0, mouseInput.x * m_LookSpeed, 0);
-            Debug.Log(m_Camera.transform.localEulerAngles);
 
             m_YRotation = mouseInput.y;
 #endif

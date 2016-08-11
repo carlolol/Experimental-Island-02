@@ -12,7 +12,6 @@ GameObject:
   - 23: {fileID: 2300764}
   - 95: {fileID: 9516908}
   - 136: {fileID: 13662586}
-  - 65: {fileID: 6535130}
   m_Layer: 0
   m_Name: tree_collider_6
   m_TagString: Untagged
@@ -27,8 +26,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1929.2114, y: 45.806618, z: 1474.9852}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.5}
+  m_LocalPosition: {x: 332.15967, y: 49.84, z: 370.51154}
+  m_LocalScale: {x: 1.75, y: 2, z: 1.25}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -67,18 +66,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152166}
   m_Mesh: {fileID: 4300000, guid: 83b269d6463f8cf4ea811c0f8c7c4f6e, type: 3}
---- !u!65 &6535130
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 152166}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 6.6549, y: 5.4910607, z: 9.272071}
-  m_Center: {x: -0.9425572, y: 9.205012, z: 0.34521484}
 --- !u!95 &9516908
 Animator:
   serializedVersion: 3
@@ -105,10 +92,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 1.5997168
+  m_Radius: 1.4799973
   m_Height: 11.970353
   m_Direction: 1
-  m_Center: {x: 1, y: 5.9637628, z: 0.34506655}
+  m_Center: {x: 1, y: 5, z: -0.2}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

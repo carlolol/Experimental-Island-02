@@ -12,7 +12,6 @@ GameObject:
   - 23: {fileID: 2366014}
   - 95: {fileID: 9530216}
   - 136: {fileID: 13613672}
-  - 65: {fileID: 6555458}
   m_Layer: 0
   m_Name: tree_collider_5
   m_TagString: Untagged
@@ -27,8 +26,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182508}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 326.1547, y: 32.782234, z: 246.7992}
-  m_LocalScale: {x: 1.4, y: 2, z: 1.2}
+  m_LocalPosition: {x: 278.61075, y: 31.073338, z: 292.51663}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -43,8 +42,8 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: cf6f5cdc422b3e5418c1d09443c64d0c, type: 2}
-  - {fileID: 2100000, guid: 14239b9fc1b468241b08ec39da435ae5, type: 2}
+  - {fileID: 2100000, guid: ad508a837229f6440a4a726d503c17c6, type: 2}
+  - {fileID: 2100000, guid: ac15b7cac77fa084cb8ecd2e03b25cdd, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -66,19 +65,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182508}
-  m_Mesh: {fileID: 4300000, guid: d8b16a66f83c28247a7e9601ef67851a, type: 3}
---- !u!65 &6555458
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 182508}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 8.065002, y: 1.515377, z: 7.57421}
-  m_Center: {x: 0.01953125, y: 5.7138343, z: -0.061767578}
+  m_Mesh: {fileID: 4300000, guid: adde6751185900143997fbe936fda43c, type: 3}
 --- !u!95 &9530216
 Animator:
   serializedVersion: 3
@@ -87,7 +74,7 @@ Animator:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182508}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: d8b16a66f83c28247a7e9601ef67851a, type: 3}
+  m_Avatar: {fileID: 9000000, guid: adde6751185900143997fbe936fda43c, type: 3}
   m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
@@ -105,10 +92,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.8251953
-  m_Height: 6.6092057
+  m_Radius: 0.79422283
+  m_Height: 7.41115
   m_Direction: 1
-  m_Center: {x: 0.6, y: 3.166919, z: -0.061751008}
+  m_Center: {x: 0, y: 2.772636, z: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: trunk
-  m_Shader: {fileID: 10509, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 1, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: 2000
@@ -147,6 +147,10 @@ Material:
         second: 0.02
       data:
         first:
+          name: _Occlusion
+        second: 7.5
+      data:
+        first:
           name: _ZWrite
         second: 1
       data:
@@ -179,6 +183,10 @@ Material:
         second: 0
       data:
         first:
+          name: _Cull
+        second: 2
+      data:
+        first:
           name: _SquashAmount
         second: 1
       data:
@@ -189,14 +197,6 @@ Material:
         first:
           name: _AO
         second: 2.4
-      data:
-        first:
-          name: _Occlusion
-        second: 7.5
-      data:
-        first:
-          name: _Cull
-        second: 2
     m_Colors:
       data:
         first:
@@ -205,11 +205,15 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: 0.1384, g: 0.0666, b: 0.0319, a: 1}
+        second: {r: 0.53676474, g: 0.22012395, b: 0.06709559, a: 1}
       data:
         first:
           name: _SpecColor
         second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      data:
+        first:
+          name: _Emission
+        second: {r: 0, g: 0, b: 0, a: 0}
       data:
         first:
           name: _TreeInstanceColor
@@ -218,10 +222,6 @@ Material:
         first:
           name: _TreeInstanceScale
         second: {r: 1, g: 1, b: 1, a: 1}
-      data:
-        first:
-          name: _Emission
-        second: {r: 0, g: 0, b: 0, a: 0}
       data:
         first:
           name: _ReflectColor

@@ -132,6 +132,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -182,6 +186,10 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -227,6 +235,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -290,6 +302,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -340,6 +356,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -389,6 +409,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -460,6 +484,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -505,6 +533,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -555,6 +587,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -626,6 +662,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -692,6 +732,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -737,6 +781,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -808,6 +856,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
   m_IsPrefabParent: 0
@@ -872,7 +924,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 0
 --- !u!1001 &69296270
 Prefab:
   m_ObjectHideFlags: 0
@@ -915,6 +967,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -969,6 +1025,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -1036,6 +1096,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -1097,6 +1161,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -1176,6 +1244,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 58.1731
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -1233,6 +1305,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -1296,6 +1372,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -1342,6 +1422,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -1445,6 +1529,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -1527,6 +1615,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -1572,6 +1664,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -1631,6 +1727,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -1678,6 +1778,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -1723,6 +1827,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -1797,7 +1905,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
 --- !u!1 &202415262 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -1861,6 +1969,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -1923,6 +2035,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -1964,6 +2080,10 @@ Prefab:
     - target: {fileID: 428748, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_RootOrder
       value: 159
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -2011,6 +2131,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -2057,6 +2181,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -2102,6 +2230,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -2161,6 +2293,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -2206,6 +2342,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -2257,6 +2397,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -2306,6 +2450,10 @@ Prefab:
     - target: {fileID: 400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -2357,6 +2505,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -2406,6 +2558,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -2477,6 +2633,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 10.642099
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -2531,6 +2691,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
   m_IsPrefabParent: 0
@@ -2576,6 +2740,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -2639,6 +2807,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -2693,6 +2865,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -2746,6 +2922,10 @@ Prefab:
     - target: {fileID: 400000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
       propertyPath: m_LocalScale.z
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
@@ -2821,6 +3001,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -2891,6 +3075,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -60.844597
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
   m_IsPrefabParent: 0
@@ -2941,6 +3129,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -2987,6 +3179,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -3032,6 +3228,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -3090,6 +3290,10 @@ Prefab:
     - target: {fileID: 400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
       propertyPath: m_LocalScale.z
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -3157,6 +3361,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 58.1731
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -3207,6 +3415,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -3252,6 +3464,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -3326,6 +3542,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -3413,6 +3633,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -3471,6 +3695,10 @@ Prefab:
       propertyPath: m_Name
       value: mountain2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
   m_IsPrefabParent: 0
@@ -3516,6 +3744,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -3563,6 +3795,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -3608,6 +3844,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -3671,6 +3911,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -3716,6 +3960,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -3763,6 +4011,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -3809,9 +4061,84 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &402434370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100002, guid: 9529ecc3d479da5499993355e6c2cb4f, type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 402434373}
+  - 222: {fileID: 402434372}
+  - 114: {fileID: 402434371}
+  m_Layer: 5
+  m_Name: CameraController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &402434371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400010, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 402434370}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 5485e2f56028a3c4cb54f5caa167377e, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &402434372
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22200002, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 402434370}
+--- !u!224 &402434373
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22400002, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 402434370}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 1643303512}
+  m_RootOrder: 4
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -150, y: 136}
+  m_SizeDelta: {x: 120, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &404091070
 Prefab:
   m_ObjectHideFlags: 0
@@ -3854,6 +4181,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -3929,6 +4260,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b63610bfb10445649bd6d5cbbf9763e5, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b63610bfb10445649bd6d5cbbf9763e5, type: 3}
   m_IsPrefabParent: 0
@@ -3974,6 +4309,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -4056,6 +4395,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -4155,6 +4498,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -4200,6 +4547,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -4254,6 +4605,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -4355,6 +4710,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -4404,6 +4763,10 @@ Prefab:
     - target: {fileID: 400000, guid: 7450af48cec182948b2d840ac0f60bd6, type: 3}
       propertyPath: m_LocalScale.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 7450af48cec182948b2d840ac0f60bd6, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7450af48cec182948b2d840ac0f60bd6, type: 3}
@@ -4471,6 +4834,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1.25
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -4516,6 +4883,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -4579,6 +4950,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -4624,6 +4999,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -4691,6 +5070,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -4745,6 +5128,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -4790,6 +5177,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -4897,6 +5288,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -4942,6 +5337,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -4989,6 +5388,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -5034,6 +5437,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -5097,6 +5504,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1.25
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -5159,6 +5570,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -5214,6 +5629,10 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -5237,93 +5656,6 @@ MeshCollider:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_PrefabInternal: {fileID: 364796779}
---- !u!1 &612582725
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 612582730}
-  - 20: {fileID: 612582729}
-  - 92: {fileID: 612582728}
-  - 124: {fileID: 612582727}
-  - 81: {fileID: 612582726}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &612582726
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612582725}
-  m_Enabled: 1
---- !u!124 &612582727
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612582725}
-  m_Enabled: 1
---- !u!92 &612582728
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612582725}
-  m_Enabled: 1
---- !u!20 &612582729
-Camera:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612582725}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0.019607844}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
-  m_StereoMirrorMode: 0
---- !u!4 &612582730
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 612582725}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
 --- !u!4 &613973878 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
@@ -5370,6 +5702,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -5425,6 +5761,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -5470,6 +5810,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -5525,6 +5869,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -5536,6 +5884,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 621996198}
+  - 114: {fileID: 621996199}
   m_Layer: 0
   m_Name: Objects
   m_TagString: Untagged
@@ -5559,7 +5908,18 @@ Transform:
   - {fileID: 1156927885}
   - {fileID: 496320639}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
+--- !u!114 &621996199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 621996197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccaf933590159814fb9c39695fa31792, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &633410577
 Prefab:
   m_ObjectHideFlags: 0
@@ -5602,6 +5962,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -5649,6 +6013,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -5694,6 +6062,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -5757,6 +6129,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -5802,6 +6178,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -5849,6 +6229,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -5894,6 +6278,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -5941,6 +6329,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -5987,9 +6379,123 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &671236885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 671236886}
+  - 222: {fileID: 671236891}
+  - 114: {fileID: 671236890}
+  - 114: {fileID: 671236889}
+  - 114: {fileID: 671236888}
+  - 114: {fileID: 671236887}
+  m_Layer: 5
+  m_Name: LeftPane
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &671236886
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 1643303512}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -242, y: 0}
+  m_SizeDelta: {x: -484, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &671236887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c3c865782347f41b6358d9fba14b48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 1574922636}
+  MovementRange: 80
+  axesToUse: 0
+  horizontalAxisName: Horizontal
+  verticalAxisName: Vertical
+--- !u!114 &671236888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c29761e7242a24797f321938e279fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &671236889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea744d414d3fac9428565b6129e22633, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 1574922636}
+--- !u!114 &671236890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &671236891
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 671236885}
 --- !u!4 &674149505 stripped
 Transform:
   m_PrefabParentObject: {fileID: 428748, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -6036,6 +6542,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -6148,6 +6658,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -6210,6 +6724,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 18.3739
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -6268,6 +6786,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -6313,6 +6835,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -6392,6 +6918,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -6438,6 +6968,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -6483,6 +7017,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -6546,6 +7084,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -6608,6 +7150,10 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -6654,6 +7200,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -6698,7 +7248,23 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
       propertyPath: m_WalkSpeed
-      value: 40
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+      propertyPath: m_RunSpeed
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+      propertyPath: m_JumpSpeed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+      propertyPath: m_GravityMultiplier
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+      propertyPath: m_LookSpeed
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
@@ -6746,6 +7312,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -6791,6 +7361,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -6890,6 +7464,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -6968,6 +7546,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
   m_IsPrefabParent: 0
@@ -7013,6 +7595,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -7088,6 +7674,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -7133,6 +7723,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -7220,6 +7814,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -7273,6 +7871,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -7388,6 +7990,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -7483,6 +8089,10 @@ Prefab:
       propertyPath: m_Name
       value: mountain2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
   m_IsPrefabParent: 0
@@ -7529,6 +8139,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -7574,6 +8188,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -7629,6 +8247,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -7674,6 +8296,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -7729,6 +8355,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -7782,6 +8412,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -7907,6 +8541,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 18.695099
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
   m_IsPrefabParent: 0
@@ -7952,6 +8590,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -8014,6 +8656,10 @@ Prefab:
     - target: {fileID: 400000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
       propertyPath: m_LocalScale.z
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
@@ -8105,6 +8751,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -8146,6 +8796,10 @@ Prefab:
     - target: {fileID: 400000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
       propertyPath: m_RootOrder
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
@@ -8200,6 +8854,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -8311,6 +8969,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -8356,6 +9018,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -8422,6 +9088,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -8521,6 +9191,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1.25
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -8566,6 +9240,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -8661,6 +9339,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -8743,6 +9425,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -8789,6 +9475,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -8840,6 +9530,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -8889,6 +9583,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -8960,9 +9658,123 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1087388524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 1087388525}
+  - 222: {fileID: 1087388530}
+  - 114: {fileID: 1087388529}
+  - 114: {fileID: 1087388528}
+  - 114: {fileID: 1087388527}
+  - 114: {fileID: 1087388526}
+  m_Layer: 5
+  m_Name: RightPane
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1087388525
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 1643303512}
+  m_RootOrder: 1
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 242, y: 0}
+  m_SizeDelta: {x: -484, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1087388526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c3c865782347f41b6358d9fba14b48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 402434370}
+  MovementRange: 80
+  axesToUse: 0
+  horizontalAxisName: HorizontalLook
+  verticalAxisName: VerticalLook
+--- !u!114 &1087388527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c29761e7242a24797f321938e279fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1087388528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea744d414d3fac9428565b6129e22633, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 402434370}
+--- !u!114 &1087388529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1087388530
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087388524}
 --- !u!4 &1087886763 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -9037,6 +9849,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -9115,6 +9931,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -9218,6 +10038,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -9263,6 +10087,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -9338,6 +10166,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -9395,6 +10227,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -9469,6 +10305,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -9708,6 +10548,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -9785,6 +10629,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -9872,6 +10720,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -9918,6 +10770,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -9963,6 +10819,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -10025,6 +10885,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -10092,6 +10956,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -43.7071
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
   m_IsPrefabParent: 0
@@ -10141,6 +11009,10 @@ Prefab:
     - target: {fileID: 400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -10200,6 +11072,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -10247,6 +11123,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -10292,6 +11172,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -10350,6 +11234,10 @@ Prefab:
     - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
       propertyPath: m_Name
       value: singleRock (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
@@ -10417,6 +11305,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -10467,6 +11359,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -10512,6 +11408,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -10579,6 +11479,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -10624,6 +11528,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -10799,6 +11707,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 6.9856997
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
   m_IsPrefabParent: 0
@@ -10877,6 +11789,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -10922,6 +11838,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -11009,6 +11929,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -11079,6 +12003,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 16.4287
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -11145,6 +12073,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -11190,6 +12122,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -11245,6 +12181,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f6deae7a015728b4ba2497a47aab62e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f6deae7a015728b4ba2497a47aab62e9, type: 3}
   m_IsPrefabParent: 0
@@ -11291,6 +12231,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -11336,6 +12280,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -11419,6 +12367,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5d5942a04c154d543a233d74a105ce15, type: 3}
   m_IsPrefabParent: 0
@@ -11469,6 +12421,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -11518,6 +12474,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -11576,6 +12536,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -11679,6 +12643,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
   m_IsPrefabParent: 0
@@ -11724,6 +12692,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -11779,6 +12751,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -11828,6 +12804,10 @@ Prefab:
     - target: {fileID: 400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -11882,6 +12862,10 @@ Prefab:
     - target: {fileID: 400000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
       propertyPath: m_LocalScale.z
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
@@ -11949,6 +12933,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -11998,6 +12986,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -12065,6 +13057,10 @@ Prefab:
       propertyPath: m_Name
       value: singleRockWithSnowT (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 3c75a69c911f4a94b9816dbb6d4d2f25, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3c75a69c911f4a94b9816dbb6d4d2f25, type: 3}
   m_IsPrefabParent: 0
@@ -12110,6 +13106,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12157,6 +13157,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -12202,6 +13206,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12265,6 +13273,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -12315,6 +13327,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -12360,6 +13376,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12414,6 +13434,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -12473,6 +13497,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -12527,6 +13555,10 @@ Prefab:
       propertyPath: m_Name
       value: MountainSnow (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -12558,6 +13590,77 @@ MeshCollider:
 Transform:
   m_PrefabParentObject: {fileID: 449578, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_PrefabInternal: {fileID: 1069811884}
+--- !u!1 &1574922636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 115374, guid: 9529ecc3d479da5499993355e6c2cb4f, type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 1574922637}
+  - 222: {fileID: 1574922639}
+  - 114: {fileID: 1574922638}
+  m_Layer: 5
+  m_Name: MovementController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1574922637
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22459456, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1574922636}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 1643303512}
+  m_RootOrder: 3
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 156, y: 136}
+  m_SizeDelta: {x: 120, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1574922638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11403012, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1574922636}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 5485e2f56028a3c4cb54f5caa167377e, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1574922639
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22272340, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1574922636}
 --- !u!1001 &1576470023
 Prefab:
   m_ObjectHideFlags: 0
@@ -12600,6 +13703,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -12646,6 +13753,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12701,6 +13812,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -12746,6 +13861,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12800,6 +13919,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -12859,6 +13982,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -12904,6 +14031,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -12975,6 +14106,10 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.75
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -13037,6 +14172,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -13095,6 +14234,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -13149,6 +14292,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -13194,6 +14341,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -13241,9 +14392,134 @@ Prefab:
       propertyPath: m_Name
       value: singleRock2WithSnowT (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
+--- !u!1 &1643303506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 1643303512}
+  - 223: {fileID: 1643303511}
+  - 114: {fileID: 1643303510}
+  - 114: {fileID: 1643303509}
+  - 114: {fileID: 1643303508}
+  - 114: {fileID: 1643303507}
+  m_Layer: 5
+  m_Name: UI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1643303507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71398ce7fbc3a5b4fa50b50bd54317a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1643303508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b67887c86ffe24648b8948b044fd2548, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1643303509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1643303510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &1643303511
+Canvas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1643303512
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643303506}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 671236886}
+  - {fileID: 1087388525}
+  - {fileID: 1774718492}
+  - {fileID: 1574922637}
+  - {fileID: 402434373}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1001 &1648840068
 Prefab:
   m_ObjectHideFlags: 0
@@ -13299,6 +14575,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
   m_IsPrefabParent: 0
@@ -13345,6 +14625,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -13390,6 +14674,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -13457,6 +14745,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5addc8408c4c80743899c21dca564f36, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5addc8408c4c80743899c21dca564f36, type: 3}
   m_IsPrefabParent: 0
@@ -13502,6 +14794,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -13552,6 +14848,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -13610,6 +14910,10 @@ Prefab:
     - target: {fileID: 400000, guid: c243f9a219023b54a81495b838a053ce, type: 3}
       propertyPath: m_LocalScale.z
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c243f9a219023b54a81495b838a053ce, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c243f9a219023b54a81495b838a053ce, type: 3}
@@ -13692,6 +14996,10 @@ Prefab:
     - target: {fileID: 400000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
       propertyPath: m_LocalScale.z
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e177773919acac498dda4b4701a8360, type: 3}
@@ -13803,6 +15111,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -13860,6 +15172,10 @@ Prefab:
     - target: {fileID: 400000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
       propertyPath: m_LocalScale.z
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
@@ -13967,6 +15283,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 10.642099
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -14012,6 +15332,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -14059,6 +15383,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -14104,6 +15432,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -14151,6 +15483,10 @@ Prefab:
       propertyPath: m_Name
       value: MountainSnow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_IsPrefabParent: 0
@@ -14197,6 +15533,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -14242,6 +15582,10 @@ Prefab:
     - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
       propertyPath: m_Name
       value: singleRock2WithSnowT (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
@@ -14305,6 +15649,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 18.3739
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d6ef14c97d2dc9d4bbcdda757267c7c8, type: 3}
   m_IsPrefabParent: 0
@@ -14324,6 +15672,174 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 428748, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_PrefabInternal: {fileID: 1914871145}
+--- !u!1 &1774718491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100004, guid: 9529ecc3d479da5499993355e6c2cb4f, type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 1774718492}
+  - 222: {fileID: 1774718496}
+  - 114: {fileID: 1774718495}
+  - 114: {fileID: 1774718494}
+  - 114: {fileID: 1774718493}
+  m_Layer: 5
+  m_Name: JumpButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1774718492
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22400004, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774718491}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 1643303512}
+  m_RootOrder: 2
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -69, y: -22}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1774718493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400002, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774718491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85bf3be603548374ca46f521a3aa7fda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Jump
+--- !u!114 &1774718494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400004, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774718491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delegates:
+  - eventID: 2
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1774718493}
+          m_MethodName: SetDownState
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Jump
+            m_BoolArgument: 0
+          m_CallState: 1
+      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
+        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - eventID: 3
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1774718493}
+          m_MethodName: SetUpState
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Jump
+            m_BoolArgument: 0
+          m_CallState: 1
+      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
+        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  delegates:
+  - eventID: 2
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1774718493}
+          m_MethodName: SetDownState
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Jump
+            m_BoolArgument: 0
+          m_CallState: 1
+      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
+        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - eventID: 3
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1774718493}
+          m_MethodName: SetUpState
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Jump
+            m_BoolArgument: 0
+          m_CallState: 1
+      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
+        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+--- !u!114 &1774718495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400006, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774718491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: eb5f6e2757c821940b69cf1456f7865a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1774718496
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 22200000, guid: 9529ecc3d479da5499993355e6c2cb4f,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774718491}
 --- !u!4 &1784474400 stripped
 Transform:
   m_PrefabParentObject: {fileID: 449578, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -14387,6 +15903,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 75.7819
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 3c75a69c911f4a94b9816dbb6d4d2f25, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3c75a69c911f4a94b9816dbb6d4d2f25, type: 3}
   m_IsPrefabParent: 0
@@ -14444,6 +15964,10 @@ Prefab:
     - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
       propertyPath: m_Name
       value: mountain2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
@@ -14527,6 +16051,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d313b83bd5a6d4e801b4d9f84b0104, type: 3}
   m_IsPrefabParent: 0
@@ -14572,6 +16100,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -14634,6 +16166,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -14716,6 +16252,10 @@ Prefab:
     - target: {fileID: 400000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
       propertyPath: m_LocalScale.z
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
@@ -14823,6 +16363,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -14889,6 +16433,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_8 (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
   m_IsPrefabParent: 0
@@ -14951,6 +16499,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -14996,6 +16548,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -15103,6 +16659,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1807a22f6ee429847bddc2bc226e1ab0, type: 3}
   m_IsPrefabParent: 0
@@ -15173,6 +16733,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15218,6 +16782,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -15268,6 +16836,10 @@ Prefab:
     - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
       propertyPath: m_Name
       value: MountainSnow (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -15343,6 +16915,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15393,6 +16969,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15438,6 +17018,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -15525,6 +17109,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15578,6 +17166,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -15649,6 +17241,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 110
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15698,6 +17294,10 @@ Prefab:
     - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
       propertyPath: m_Name
       value: tree_collider_8 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 103360, guid: d1506433707f6d64582b33342b1d3404, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1506433707f6d64582b33342b1d3404, type: 2}
@@ -15769,6 +17369,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -15814,6 +17418,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -15889,6 +17497,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c12f9c4815c744a21d3d77c31006c, type: 3}
   m_IsPrefabParent: 0
@@ -15934,6 +17546,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -16075,6 +17691,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -16141,6 +17761,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -16199,6 +17823,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6400000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: e0f7f97094793e24eb6ebf5c98082212, type: 3}
@@ -16245,6 +17873,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (101)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
@@ -16299,6 +17931,10 @@ Prefab:
     - target: {fileID: 400000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d1a424bcfddc8e94193282248f65b348, type: 3}
@@ -16362,6 +17998,10 @@ Prefab:
       propertyPath: m_Name
       value: tree_collider_7 (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
   m_IsPrefabParent: 0
@@ -16411,6 +18051,10 @@ Prefab:
     - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
       propertyPath: m_Name
       value: tree_collider_7 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 150700, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 32d5be20e596aba4da69744677f0fc46, type: 2}

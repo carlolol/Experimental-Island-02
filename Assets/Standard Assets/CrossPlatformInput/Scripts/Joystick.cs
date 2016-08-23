@@ -6,6 +6,8 @@ namespace UnityStandardAssets.CrossPlatformInput
 {
 	public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IDragHandler
 	{
+        public GameObject controller;
+
 		public enum AxisOption
 		{
 			// Options for which axes to use
@@ -32,7 +34,13 @@ namespace UnityStandardAssets.CrossPlatformInput
 
         void Start()
         {
-            m_StartPos = transform.position;
+            m_StartPos = controller.transform.position;
+        }
+
+        public void UpdatePosition(Vector3 deltaPos)
+        {
+            m_StartPos = deltaPos;
+            Debug.Log(deltaPos);
         }
 
 		void UpdateVirtualAxes(Vector3 value)
@@ -80,7 +88,6 @@ namespace UnityStandardAssets.CrossPlatformInput
         public void OnDrag(PointerEventData data)
 		{
 			Vector3 newPos = Vector3.zero;
-            Debug.Log("hey");
 			if (m_UseX)
 			{
 				int delta = (int)(data.position.x - m_StartPos.x);
@@ -92,19 +99,22 @@ namespace UnityStandardAssets.CrossPlatformInput
 				int delta = (int)(data.position.y - m_StartPos.y);
 				newPos.y = delta;
 			}
-			transform.position = Vector3.ClampMagnitude(new Vector3(newPos.x, newPos.y, newPos.z), MovementRange) + m_StartPos;
-			UpdateVirtualAxes(transform.position);
+			controller.transform.position = Vector3.ClampMagnitude(new Vector3(newPos.x, newPos.y, newPos.z), MovementRange) + m_StartPos;
+			UpdateVirtualAxes(controller.transform.position);
 		}
 
 
 		public void OnPointerUp(PointerEventData data)
 		{
-			transform.position = m_StartPos;
+			controller.transform.position = m_StartPos;
 			UpdateVirtualAxes(m_StartPos);
 		}
 
 
-		public void OnPointerDown(PointerEventData data) { Debug.Log("touch"); }
+		public void OnPointerDown(PointerEventData data)
+        {
+            m_StartPos = controller.transform.position;
+        }
 
 		void OnDisable()
 		{

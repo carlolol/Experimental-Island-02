@@ -6,8 +6,6 @@ namespace UnityStandardAssets.CrossPlatformInput
 {
 	public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IDragHandler
 	{
-        public GameObject controller;
-
 		public enum AxisOption
 		{
 			// Options for which axes to use
@@ -34,13 +32,7 @@ namespace UnityStandardAssets.CrossPlatformInput
 
         void Start()
         {
-            m_StartPos = controller.transform.position;
-        }
-
-        public void UpdatePosition(Vector3 deltaPos)
-        {
-            m_StartPos = deltaPos;
-            Debug.Log(deltaPos);
+            m_StartPos = transform.position;
         }
 
 		void UpdateVirtualAxes(Vector3 value)
@@ -59,62 +51,56 @@ namespace UnityStandardAssets.CrossPlatformInput
 			}
 		}
 
-        public void CreateVirtualAxes()
-        {
-            // set axes to use
-            m_UseX = (axesToUse == AxisOption.Both || axesToUse == AxisOption.OnlyHorizontal);
-            m_UseY = (axesToUse == AxisOption.Both || axesToUse == AxisOption.OnlyVertical);
+		void CreateVirtualAxes()
+		{
+			// set axes to use
+			m_UseX = (axesToUse == AxisOption.Both || axesToUse == AxisOption.OnlyHorizontal);
+			m_UseY = (axesToUse == AxisOption.Both || axesToUse == AxisOption.OnlyVertical);
 
-            // create new axes based on axes to use
-            if (m_UseX)
-            {
-                if (!CrossPlatformInputManager.AxisExists(horizontalAxisName))
-                {
-                    m_HorizontalVirtualAxis = new CrossPlatformInputManager.VirtualAxis(horizontalAxisName);
-                    CrossPlatformInputManager.RegisterVirtualAxis(m_HorizontalVirtualAxis);
-                }
-            }
-            if (m_UseY)
-            {
-                if (!CrossPlatformInputManager.AxisExists(verticalAxisName))
-                {
-                    m_VerticalVirtualAxis = new CrossPlatformInputManager.VirtualAxis(verticalAxisName);
-                    CrossPlatformInputManager.RegisterVirtualAxis(m_VerticalVirtualAxis);
-                }
-            }
-        }
+			// create new axes based on axes to use
+			if (m_UseX)
+			{
+				m_HorizontalVirtualAxis = new CrossPlatformInputManager.VirtualAxis(horizontalAxisName);
+				CrossPlatformInputManager.RegisterVirtualAxis(m_HorizontalVirtualAxis);
+			}
+			if (m_UseY)
+			{
+				m_VerticalVirtualAxis = new CrossPlatformInputManager.VirtualAxis(verticalAxisName);
+				CrossPlatformInputManager.RegisterVirtualAxis(m_VerticalVirtualAxis);
+			}
+		}
 
 
-        public void OnDrag(PointerEventData data)
+		public void OnDrag(PointerEventData data)
 		{
 			Vector3 newPos = Vector3.zero;
+
 			if (m_UseX)
 			{
 				int delta = (int)(data.position.x - m_StartPos.x);
+				delta = Mathf.Clamp(delta, - MovementRange, MovementRange);
 				newPos.x = delta;
 			}
 
 			if (m_UseY)
 			{
 				int delta = (int)(data.position.y - m_StartPos.y);
+				delta = Mathf.Clamp(delta, -MovementRange, MovementRange);
 				newPos.y = delta;
 			}
-			controller.transform.position = Vector3.ClampMagnitude(new Vector3(newPos.x, newPos.y, newPos.z), MovementRange) + m_StartPos;
-			UpdateVirtualAxes(controller.transform.position);
+			transform.position = new Vector3(m_StartPos.x + newPos.x, m_StartPos.y + newPos.y, m_StartPos.z + newPos.z);
+			UpdateVirtualAxes(transform.position);
 		}
 
 
 		public void OnPointerUp(PointerEventData data)
 		{
-			controller.transform.position = m_StartPos;
+			transform.position = m_StartPos;
 			UpdateVirtualAxes(m_StartPos);
 		}
 
 
-		public void OnPointerDown(PointerEventData data)
-        {
-            m_StartPos = controller.transform.position;
-        }
+		public void OnPointerDown(PointerEventData data) { }
 
 		void OnDisable()
 		{
